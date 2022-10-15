@@ -1,4 +1,4 @@
-# download files in github respository directory from command line
+# download files from github respository directory
 
 ## activate this library
 ```bash
